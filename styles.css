@@ -178,7 +178,7 @@ form .account svg{
     transition: 0.5s;
 }
 
-@media (max-width: 500px){
+@media (min-width: 500px){
     *{
         padding: 0;
         margin: 0;
